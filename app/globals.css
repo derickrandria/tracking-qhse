@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #0B0E17;
+  color: #E8E8F0;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #111627;
+}
+::-webkit-scrollbar-thumb {
+  background: #2D3352;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #E8751A;
+}
+
+.card {
+  @apply bg-dark-700 rounded-xl border border-dark-500 p-5 transition-all duration-200;
+}
+.card:hover {
+  @apply border-accent-orange/30;
+  box-shadow: 0 0 20px rgba(232, 117, 26, 0.06);
+}
+
+.badge {
+  @apply px-2.5 py-0.5 rounded-full text-xs font-semibold;
+}
+
+.stat-value {
+  @apply text-3xl font-bold;
+}
+
+.section-title {
+  @apply text-lg font-bold text-white mb-4 flex items-center gap-2;
+}
