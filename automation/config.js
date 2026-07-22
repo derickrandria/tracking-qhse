@@ -14,8 +14,8 @@ module.exports = {
       login: {
         // ⚠️ À REMPLIR – utilisez des variables d'environnement en production
         // export MZONEX_USER="votre_email" && export MZONEX_PASS="votre_mdp"
-        username: process.env.MZONEX_USER || 'VOTRE_IDENTIFIANT',
-        password: process.env.MZONEX_PASS || 'VOTRE_MOT_DE_PASSE',
+        username: process.env.MZONEX_USER || 'Lss_tracking',
+        password: process.env.MZONEX_USER || 'Lss@2023!',
         // Sélecteurs basés sur l'interface MzoneX v7.0.30
         selectors: {
           usernameInput: 'input[type="email"], input[name="email"], input[placeholder*="mail"], input[placeholder*="login"], #email',
@@ -50,8 +50,8 @@ module.exports = {
       url: 'https://hosting.camtrack.net/?lang=fr',
       loginUrl: 'https://hosting.camtrack.net/?lang=fr',
       login: {
-        username: process.env.CAMTRACK_USER || 'VOTRE_IDENTIFIANT',
-        password: process.env.CAMTRACK_PASS || 'VOTRE_MOT_DE_PASSE',
+        username: process.env.CAMTRACK_USER || 'LSS_LPSA',
+        password: process.env.CAMTRACK_PASS || 'LSSlPsA26Ok!',
         selectors: {
           usernameInput: 'input[type="text"], input[name="username"], input[placeholder*="utilisateur"], #username',
           passwordInput: 'input[type="password"], input[name="password"], #password',
