@@ -1,0 +1,293 @@
+{
+  "mzonex": [
+    {
+      "plate": "0576 TCD",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.699Z"
+    },
+    {
+      "plate": "0616 TCD",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "0916 TBV",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "0926 TBV",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "0936 TBV",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "2226 TBS",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "2236 TBS",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "2606 TBS",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "2736 TCC",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "2746 TCC",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "3046 TBS",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "3056 TBS",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "3066 TBS",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "3646 TBS",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "4006 TBS",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "4526 TCC",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "4566 TCC",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "4736 TCC",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "4866 TBU",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "4876 TBU",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "4886 TBU",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "4926 TBU",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "5156 TBV",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "5186 TBV",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "5306 TBU",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "5316 TBU",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "5346 TBU",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "5376 TBV",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "5446 TBS",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "5706 TBS",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "7936 TCB",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "7946 TCB",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "8076 TCB",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "8086 TCB",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "8116 TCB",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "8806 TCB",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "9186 TCC",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "9226 TCC",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "9236 TCC",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "9806 TCD",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "9816 TCD",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    },
+    {
+      "plate": "9856 TCD",
+      "platform": "MzoneX",
+      "extractedAt": "2026-07-23T05:10:55.707Z"
+    }
+  ],
+  "camtrackpro": [
+    {
+      "plate": "0826 TBS",
+      "brand": "MERCEDES",
+      "fullName": "0826 TBS-MERCEDES -LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-23T05:11:43.754Z"
+    },
+    {
+      "plate": "0906 TBV",
+      "brand": "MERCEDES",
+      "fullName": "0906 TBV-MERCEDES -LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-23T05:11:43.754Z"
+    },
+    {
+      "plate": "3076 TBS",
+      "brand": "MERCEDES",
+      "fullName": "3076 TBS-MERCEDES-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-23T05:11:43.754Z"
+    },
+    {
+      "plate": "4296 TCC",
+      "brand": "HOWO",
+      "fullName": "4296 TCC-HOWO-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-23T05:11:43.754Z"
+    },
+    {
+      "plate": "5346 TBU",
+      "brand": "MERCEDES",
+      "fullName": "5346 TBU-MERCEDES-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-23T05:11:43.754Z"
+    },
+    {
+      "plate": "5506 TBS",
+      "brand": "MERCEDES",
+      "fullName": "5506 TBS-MERCEDES-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-23T05:11:43.754Z"
+    },
+    {
+      "plate": "5616 TCE",
+      "brand": "CNHTC",
+      "fullName": "5616 TCE-CNHTC-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-23T05:11:43.754Z"
+    },
+    {
+      "plate": "5626 TCE",
+      "brand": "SINOTRUK HOWO",
+      "fullName": "5626 TCE-SINOTRUK HOWO-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-23T05:11:43.754Z"
+    },
+    {
+      "plate": "5716 TBS",
+      "brand": "MERCEDES",
+      "fullName": "5716 TBS-MERCEDES-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-23T05:11:43.754Z"
+    },
+    {
+      "plate": "6546 TCE",
+      "brand": "MERCEDES",
+      "fullName": "6546 TCE-MERCEDES-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-23T05:11:43.754Z"
+    },
+    {
+      "plate": "9176 TCC",
+      "brand": "HOWO",
+      "fullName": "9176 TCC-HOWO-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-23T05:11:43.754Z"
+    }
+  ]
+}

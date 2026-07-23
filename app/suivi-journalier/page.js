@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import Header from '../../components/Header';
 import { dailyTracking, DAILY_DATE, TCJ_SEUIL, TTJ_SEUIL } from '../../data/daily-tracking';
 
@@ -11,12 +11,29 @@ const situationColors = {
 };
 
 export default function SuiviJournalierPage() {
+    const [liveData, setLiveData] = useState(null);
+  useEffect(() => {
+    fetch('/live-data.json')
+      .then(r => r.ok ? r.json() : null)
+      .then(data => { if (data) setLiveData(data); })
+      .catch(() => {});
+  }, []);
   const [filterSituation, setFilterSituation] = useState('Tous');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedVehicle, setSelectedVehicle] = useState(null);
-
+  // Afficher les données live si disponibles
+  const displayData = liveData ? liveData.mzonex.map(v => ({
+    plate: v.plate, driver: '', phone: '', desc: '', transporter: '',
+    mission: v.eventType || '', situation: 'CHARGE', statutColor: 'yellow',
+    depot: '', distributeur: '', produit: '', ot: '',
+    j1: '', h08: v.lastPosition || '', dist08: '', h10: '', dist10: '',
+    h12: null, dist12: null, h14: null, dist14: null, h16: null, dist16: null, h18: null, dist18: null,
+    depart: null, tcc: null, tcj: null, tcjRest: null, tcjStatut: null, ttj: null,
+    finT1: null, debT2: null, finT2: null, debT3: null, finT3: null, arret: null, totalPause: null,
+    speed: v.speed || '', platform: v.platform || '',
+  })) : dailyTracking;
   const filtered = useMemo(() => {
-    let result = [...dailyTracking];
+        let result = [...displayData];;
     if (filterSituation !== 'Tous') result = result.filter(v => v.situation === filterSituation);
     if (searchQuery) {
       const q = searchQuery.toLowerCase();

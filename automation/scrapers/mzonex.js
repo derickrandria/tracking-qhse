@@ -95,7 +95,7 @@ class MzoneXScraper {
     // Positionner la souris au centre de la grille
     const gridCenter = await this.page.evaluate(() => {
       const g = document.querySelector('.wj-flexgrid, .gridview-wrapper, .wj-cells, table');
-      if (g) { const r = g.getBoundingClientRect(); return { x: Math.round(r.x + r.width/2), y: Math.round(r.y + r.height/2) }; }
+      if (g) { const r = g.getBoundingClientRect(); if (r.width > 50 && r.height > 50) return { x: Math.round(r.x + r.width/2), y: Math.round(r.y + r.height/2) }; }
       return { x: 700, y: 500 };
     });
     console.log(`   🖱️ Grille centre: (${gridCenter.x}, ${gridCenter.y})`);

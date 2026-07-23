@@ -1,0 +1,82 @@
+{
+  "mzonex": [],
+  "camtrackpro": [
+    {
+      "plate": "0826 TBS",
+      "brand": "MERCEDES",
+      "fullName": "0826 TBS-MERCEDES -LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-22T14:19:46.540Z"
+    },
+    {
+      "plate": "0906 TBV",
+      "brand": "MERCEDES",
+      "fullName": "0906 TBV-MERCEDES -LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-22T14:19:46.540Z"
+    },
+    {
+      "plate": "3076 TBS",
+      "brand": "MERCEDES",
+      "fullName": "3076 TBS-MERCEDES-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-22T14:19:46.540Z"
+    },
+    {
+      "plate": "4296 TCC",
+      "brand": "HOWO",
+      "fullName": "4296 TCC-HOWO-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-22T14:19:46.540Z"
+    },
+    {
+      "plate": "5346 TBU",
+      "brand": "MERCEDES",
+      "fullName": "5346 TBU-MERCEDES-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-22T14:19:46.540Z"
+    },
+    {
+      "plate": "5506 TBS",
+      "brand": "MERCEDES",
+      "fullName": "5506 TBS-MERCEDES-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-22T14:19:46.540Z"
+    },
+    {
+      "plate": "5616 TCE",
+      "brand": "CNHTC",
+      "fullName": "5616 TCE-CNHTC-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-22T14:19:46.540Z"
+    },
+    {
+      "plate": "5626 TCE",
+      "brand": "SINOTRUK HOWO",
+      "fullName": "5626 TCE-SINOTRUK HOWO-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-22T14:19:46.540Z"
+    },
+    {
+      "plate": "5716 TBS",
+      "brand": "MERCEDES",
+      "fullName": "5716 TBS-MERCEDES-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-22T14:19:46.540Z"
+    },
+    {
+      "plate": "6546 TCE",
+      "brand": "MERCEDES",
+      "fullName": "6546 TCE-MERCEDES-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-22T14:19:46.540Z"
+    },
+    {
+      "plate": "9176 TCC",
+      "brand": "HOWO",
+      "fullName": "9176 TCC-HOWO-LPSA",
+      "platform": "CamtrackPro",
+      "extractedAt": "2026-07-22T14:19:46.540Z"
+    }
+  ]
+}
